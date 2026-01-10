@@ -13,8 +13,3 @@ A Python automation tool that opens YouTube, searches for a topic using user inp
 * **Python 3**
 * **Selenium WebDriver**
 * **Pandas** (For CSV handling)
-
-## How to Run
-1. Install dependencies:
-   ```bash
-   pip install selenium pandas
